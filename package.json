@@ -1,0 +1,23 @@
+{
+  "name": "newchat",
+  "version": "1.0.0",
+  "description": "secure messenger",
+  "main": "src/server/index.js",
+  "scripts": {
+    "it": "node src/server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebedev-nikita/newchat.git"
+  },
+  "author": "memas-team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebedev-nikita/newchat/issues"
+  },
+  "homepage": "https://github.com/lebedev-nikita/newchat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
